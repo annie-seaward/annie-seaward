@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Annie,
-- 👀 I’m interested in full stack web and app development, beutiful data and user experience design.
+- 👀 I’m am passionate about technology and software development.
 - 🌱 I’m currently studying for a combined STEM degree, with the Open University
