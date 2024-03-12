@@ -9,7 +9,7 @@
 - 🌱 I have a first-class degree in Combined STEM (BSc) from the Open University.
 - ✏️ I enjoy blogging and have had my writing featured on Hashnode.
 
-#### 🔗 Links
+## 🔗 Links
 
 [![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=whit)](https://annie-codes.com/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/annie-seaward/)
