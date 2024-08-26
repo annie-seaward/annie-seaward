@@ -6,8 +6,6 @@
 - 👋 Hi, I’m Annie
 - 💼 I am a UX Developer @ [Etch](https://etch.co).
 - 👀 I’m am passionate about technology and software development.
-- 🌱 I have a first-class degree in Combined STEM (BSc) from the Open University.
-- ✏️ I enjoy blogging and have had my writing featured on Hashnode.
 
 ## 🔗 Links
 
